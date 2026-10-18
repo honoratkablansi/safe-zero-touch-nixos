@@ -1,0 +1,4 @@
+# Real credentials: never commit
+secrets.nix
+result
+result-*
